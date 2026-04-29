@@ -46,3 +46,4 @@ Data without insights is just numbers. Based on my analysis, I identified the fo
 ---
 
 3. **Interact with the Report:** Download the `.pbix` file to test the slicers and filters in Power BI Desktop.
+ ![Pizza Sales Dashboard](pizza%20dasbboard.png)
